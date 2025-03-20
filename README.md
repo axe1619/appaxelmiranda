@@ -8,8 +8,8 @@ Git
 
 1️⃣ Instalación de la API Laravel
 1.1 Clonar el repositorio
-git clone https://github.com/usuario/repo-api.git
- cd repo-api
+git clone https://github.com/axe1619/appaxelmiranda.git
+ cd AppTaskAxelMiranda
 
 1.2 Instalar dependencias
 composer install
